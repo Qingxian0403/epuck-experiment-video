@@ -4,9 +4,9 @@ Supplementary video for the E-puck experiment in the accompanying manuscript.
 
 ## Watch
 
-[Watch the experiment in your browser](https://qingxian0403.github.io/epuck-experiment-video/). The page plays a smaller preview of the experiment.
+[epuck-preview.webm](https://github.com/user-attachments/assets/02968920-00d4-4adc-bad0-83ceb1b93d34)
 
-[Download the unmodified original MP4](https://github.com/Qingxian0403/epuck-experiment-video/releases/download/v1.0.0/epuck.mp4).
+[Open the browser playback page](https://qingxian0403.github.io/epuck-experiment-video/) or [download the unmodified original MP4](https://github.com/Qingxian0403/epuck-experiment-video/releases/download/v1.0.0/epuck.mp4).
 
 ## Files
 
