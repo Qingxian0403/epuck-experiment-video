@@ -2,6 +2,9 @@
 
 Supplementary video for the E-puck experiment in the accompanying manuscript.
 
+**Paper Title:** Prescribed-Time Fault-Tolerant Formation Tracking via Cascaded Observation With Application to Connected Vehicles  
+**Manuscript ID:** T-ITS-26-06-3036
+
 ## Watch
 
 [epuck-preview.webm](https://github.com/user-attachments/assets/02968920-00d4-4adc-bad0-83ceb1b93d34)
