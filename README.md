@@ -1,9 +1,8 @@
-# E-puck experiment video
+# E-Puck Experiment Video
 
 Supplementary video for the E-puck experiment in the accompanying manuscript.
 
-**Paper Title:** Prescribed-Time Fault-Tolerant Formation Tracking via Cascaded Observation With Application to Connected Vehicles  
-**Manuscript ID:** T-ITS-26-06-3036
+**Paper Title:** Prescribed-Time Fault-Tolerant Formation Tracking via Cascaded Observation With Application to Connected Vehicles
 
 ## Watch
 
